@@ -1,5 +1,17 @@
 # Changelog
 
+## [Unreleased](https://github.com/OpenVoiceOS/ovos-media/tree/HEAD)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-media/compare/V0.0.1a17...HEAD)
+
+**Merged pull requests:**
+
+- update player.py to avoid no keyword arguments error [\#13](https://github.com/OpenVoiceOS/ovos-media/pull/13) ([mike99mac](https://github.com/mike99mac))
+
+## [V0.0.1a17](https://github.com/OpenVoiceOS/ovos-media/tree/V0.0.1a17) (2024-03-21)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-media/compare/V0.0.1a16...V0.0.1a17)
+
 ## [V0.0.1a16](https://github.com/OpenVoiceOS/ovos-media/tree/V0.0.1a16) (2024-03-10)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-media/compare/V0.0.1a15...V0.0.1a16)
