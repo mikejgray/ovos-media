@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/OpenVoiceOS/ovos-media/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-media/compare/V0.0.1a17...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-media/compare/V0.0.1a18...HEAD)
+
+**Merged pull requests:**
+
+- fix\(MPRIS\): toggle MPRIS integration via config [\#19](https://github.com/OpenVoiceOS/ovos-media/pull/19) ([JarbasAl](https://github.com/JarbasAl))
+
+## [V0.0.1a18](https://github.com/OpenVoiceOS/ovos-media/tree/V0.0.1a18) (2024-03-29)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-media/compare/V0.0.1a17...V0.0.1a18)
 
 **Merged pull requests:**
 
